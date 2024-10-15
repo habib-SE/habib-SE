@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-SE&label=Profile%20views&color=0e75b6&style=flat" alt="habib-SE" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habib-SE" alt="habib-SE" /></a> </p>
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on React js
-- 🤔 I’m looking for help with React
-- 💬 Ask me about JavaScript programing Bug
+- 🔭 I’m currently working as a full-stack developer specializing in the MERN stack.
+- 🌱 I have 2 years of experience in MERN stack development.
+- 👯 I’m looking to collaborate on MERN stack projects.
+- 🤔 I’m open to helping with React and full-stack development challenges.
+- 💬 Ask me about JavaScript, React, Node.js, and fixing bugs.
 - 📫 How to reach me: hab67603@gmail.com
 - 😄 Pronouns: Raja
-- ⚡ Fun fact: Friendly and loyal
+- ⚡ Fun fact: I'm friendly and loyal.
 
   
 <h3 align="left">Connect with me:</h3>
